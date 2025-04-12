@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/audio_options"
+        android:textColor="@color/colorWhite"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/selectMusicButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="@color/colorPrimary"
+        android:drawableStart="@drawable/ic_audio"
+        android:drawablePadding="8dp"
+        android:gravity="start|center_vertical"
+        android:padding="12dp"
+        android:text="@string/select_background_music"
+        android:textColor="@color/colorWhite" />
+
+    <Button
+        android:id="@+id/recordVoiceButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:drawableStart="@drawable/ic_audio"
+        android:drawablePadding="8dp"
+        android:gravity="start|center_vertical"
+        android:padding="12dp"
+        android:text="@string/record_voice"
+        android:textColor="@color/colorWhite" />
+
+</LinearLayout>

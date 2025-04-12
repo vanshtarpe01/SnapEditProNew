@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Timeline dimensions -->
+    <dimen name="timeline_height">120dp</dimen>
+    <dimen name="timeline_peek_height">80dp</dimen>
+    
+    <!-- Item dimensions -->
+    <dimen name="project_thumbnail_height">160dp</dimen>
+    <dimen name="filter_thumbnail_width">100dp</dimen>
+    <dimen name="filter_thumbnail_height">120dp</dimen>
+    <dimen name="transition_item_size">100dp</dimen>
+    <dimen name="text_style_item_width">120dp</dimen>
+    <dimen name="text_style_item_height">60dp</dimen>
+    <dimen name="sticker_item_size">80dp</dimen>
+    
+    <!-- Margin and padding -->
+    <dimen name="spacing_tiny">2dp</dimen>
+    <dimen name="spacing_small">4dp</dimen>
+    <dimen name="spacing_medium">8dp</dimen>
+    <dimen name="spacing_large">16dp</dimen>
+    <dimen name="spacing_xlarge">24dp</dimen>
+    <dimen name="spacing_xxlarge">32dp</dimen>
+    
+    <!-- Text sizes -->
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="text_size_xlarge">18sp</dimen>
+    <dimen name="text_size_xxlarge">20sp</dimen>
+    <dimen name="text_size_title">24sp</dimen>
+    <dimen name="text_size_big_title">28sp</dimen>
+    
+    <!-- Radius -->
+    <dimen name="corner_radius_small">4dp</dimen>
+    <dimen name="corner_radius_medium">8dp</dimen>
+    <dimen name="corner_radius_large">16dp</dimen>
+    
+    <!-- Elevation -->
+    <dimen name="elevation_small">2dp</dimen>
+    <dimen name="elevation_medium">4dp</dimen>
+    <dimen name="elevation_large">8dp</dimen>
+</resources>
